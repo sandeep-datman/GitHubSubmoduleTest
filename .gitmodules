@@ -1,0 +1,3 @@
+[submodule "anotherTestModule"]
+	path = anotherTestModule
+	url = https://github.com/sandeep-datman/anotherTestModule.git
